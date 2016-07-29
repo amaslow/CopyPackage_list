@@ -96,7 +96,7 @@ public class CopyPackage_list extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    String mainfolder = "X:\\Smartwares - Product Content\\PRODUCTS";
+    String mainfolder = "\\\\172.16.55.197\\design\\Smartwares - Product Content\\PRODUCTS";
 
     private void label(JFileChooser dest, File source) throws IOException {
         File subdir = dest.getSelectedFile();
